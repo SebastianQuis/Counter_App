@@ -13,7 +13,7 @@ class _ContadorPageState extends State<ContadorPage> {
   int _conteo = 0; 
 
   @override
-  Widget build(BuildContext context) {
+  Widget build(BuildContext context) {    
     //buildcontext es todo el arbol de los widgets
     return Scaffold(
       appBar: AppBar(
